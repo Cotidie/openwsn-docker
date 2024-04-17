@@ -1,4 +1,4 @@
-v# Copyright (c) 2010-2013, Regents of the University of California. 
+# Copyright (c) 2010-2013, Regents of the University of California. 
 # All rights reserved. 
 #  
 # Released under the BSD 3-Clause license as published at the link below.
